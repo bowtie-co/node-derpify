@@ -1,0 +1,22 @@
+{
+  "name": "derpify",
+  "version": "0.0.1",
+  "description": "Derpify",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bowtie-co/node-derpify.git"
+  },
+  "keywords": [
+    "derp"
+  ],
+  "author": "Charlie McClung",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bowtie-co/node-derpify/issues"
+  },
+  "homepage": "https://github.com/bowtie-co/node-derpify#readme"
+}
